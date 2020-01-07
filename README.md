@@ -1,4 +1,4 @@
-# ImageMinifier
+# ImageMinifier 🖼️
 
 Node app using [Imagemin](https://github.com/imagemin/imagemin) with Automator workflow to quickly minify images by drag 'n dropping them. For `jpg` and `png` images. 
 
